@@ -53,5 +53,13 @@ Picture of what Squareline studio gave me:
 
 ## 7/10/2025 (3 Hours)
 
+More reasearch done! I've decided to use the MUI library from the u8g2 library, because I've used u8g2 before for projects, and MUI has the encoder code setup!!!
+I've also spent a while testing MUI and making and testing examples. Also added encoder to one prototype!
+
+![LoRa Update](https://github.com/user-attachments/assets/e16f3dec-3267-40ea-9338-ab2806a378e1)
+
+
+
+
 
 
