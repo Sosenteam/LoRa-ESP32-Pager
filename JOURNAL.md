@@ -30,7 +30,7 @@ Started designing UI in Squareline Studio, got a first draft of the menu scren a
 
 <img width="456" height="152" alt="image" src="https://github.com/user-attachments/assets/8d1b8fa6-2468-4608-be59-e837a97ea3e8" />
 
-## 7/01/2025 (1 Hours)
+## 7/01/2025 (1 Hour)
 
 Continued work on the UI, focusiing on the read section (where incoming messages wil appear). Struggled a bit with getting the style how I wanted (not supposed to have blue), but overall happy with result.
 
@@ -42,7 +42,7 @@ More UI Work! Got a finished version of the UI, with a send screen! Also has 'wo
 
 <img width="575" height="153" alt="image" src="https://github.com/user-attachments/assets/0ead2f3e-71db-4314-8979-9fdd4a08e880" />
 
-## 7/05/2025 (1 Hours)
+## 7/05/2025 (1 Hour)
 
 Disaster Struck! LVGL code is not built for the Arduino IDE (prefers the espressif IDE), and the libraries for Arduino are built for ESPI_TFT, which doesn't support my display.
 Picture of what Squareline studio gave me:
@@ -57,6 +57,17 @@ More reasearch done! I've decided to use the MUI library from the u8g2 library, 
 I've also spent a while testing MUI and making and testing examples. Also added encoder to one prototype!
 
 ![LoRa Update](https://github.com/user-attachments/assets/e16f3dec-3267-40ea-9338-ab2806a378e1)
+
+## 7/11/2025 (2 Hours)
+
+Lots more testing, Struggling with getting the screen to update quickly and also getting the encoder to have faster recognition/acceleration.
+
+## 7/12/2025 (3 Hours)
+
+Resolution!!! I figured out that in order to make the screen refresh faster, I needed to use hardware I2C instead of software I2C. I had to change a single character in my code from a S to a H. (So frustrating).
+Also got a good demo for character selection, 12 characters, typing is 100x faster but still not quite perfect. I would like to get rid of Caps if I can. 
+
+![PXL_20250712_212104544 RAW-01 MP COVER](https://github.com/user-attachments/assets/9394bd9c-6b05-4e2a-a8a8-f9819dd4c039)
 
 
 
