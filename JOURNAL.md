@@ -69,8 +69,24 @@ Also got a good demo for character selection, 12 characters, typing is 100x fast
 
 ![PXL_20250712_212104544 RAW-01 MP COVER](https://github.com/user-attachments/assets/9394bd9c-6b05-4e2a-a8a8-f9819dd4c039)
 
+## 7/13/2025 (3 Hours)
 
+Started work in KiCAD, lots of watching tutorials, and finding out how to use the editor. Started adding components to my schematic, such as ESP32, voltage regulator, etc.
 
+## 7/14/2025 (3 Hours)
 
+Lots more work in KiCAD, also lots of reading documentation/spec sheets. Started the power supply section, also picked out the ESP32-S3-WROOM-1 because it doesn't need a seperated UART>USB connector.
+
+<img width="557" height="312" alt="image" src="https://github.com/user-attachments/assets/c53c31e5-06e2-4493-8eb3-894919bf03aa" />
+
+## 7/15/2025 (4.5 Hours)
+
+So much more KiCAD, got USB and ESP32 and button sections of pcb done, started research into possible battery charging chips/boards (so scary).
+
+<img width="1137" height="645" alt="image" src="https://github.com/user-attachments/assets/948d31fb-7095-4134-8fec-aa9c8bd8dec8" />
+
+ Also started figuring out placement for the board even though it's not great (not finished ofc).
+
+<img width="714" height="517" alt="image" src="https://github.com/user-attachments/assets/4569437f-5b2d-4c6a-b3b0-21f478357dd0" />
 
 
