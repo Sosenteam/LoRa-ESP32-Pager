@@ -89,4 +89,6 @@ So much more KiCAD, got USB and ESP32 and button sections of pcb done, started r
 
 <img width="714" height="517" alt="image" src="https://github.com/user-attachments/assets/4569437f-5b2d-4c6a-b3b0-21f478357dd0" />
 
+## 7/16/2025
 
+Redid entire power section, changed battery chip and voltage regulator chip. Added custom OLED, and also a button matrix. Also started hooking up everything to the ESP32 S3 Wroom 
