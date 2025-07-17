@@ -89,6 +89,20 @@ So much more KiCAD, got USB and ESP32 and button sections of pcb done, started r
 
 <img width="714" height="517" alt="image" src="https://github.com/user-attachments/assets/4569437f-5b2d-4c6a-b3b0-21f478357dd0" />
 
-## 7/16/2025
+## 7/16/2025 (4 Hours)
 
-Redid entire power section, changed battery chip and voltage regulator chip. Added custom OLED, and also a button matrix. Also started hooking up everything to the ESP32 S3 Wroom 
+Redid entire power section, changed battery chip and voltage regulator chip. Added custom OLED, and also a button matrix. Also started hooking up everything to the ESP32 S3 Wroom.
+<img width="935" height="397" alt="image" src="https://github.com/user-attachments/assets/ddb1d93f-7995-4284-85ad-5b8fa5f6462d" /> <img width="555" height="310" alt="image" src="https://github.com/user-attachments/assets/d07db2ff-2ada-4ae0-a2f6-865eef0ed207" />
+
+## 7/17/2025 (3 Hours)
+
+Pain. I realised that all my connections were net labels instead of global labels, so I had to redo them all. I added more decoupling caps, testing pads and battery connectors.
+
+<img width="594" height="748" alt="image" src="https://github.com/user-attachments/assets/474fbfd0-9256-40bb-8c9a-4641c10f9d7f" />
+
+Also restarted the layout process and started grouping all my components (whitebox is hopeful final size)
+
+<img width="768" height="532" alt="image" src="https://github.com/user-attachments/assets/a77d04ac-739d-49bd-b86d-8f6a82477dbe" />
+
+
+
