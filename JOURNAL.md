@@ -102,6 +102,10 @@ Pain. I realised that all my connections were net labels instead of global label
 
 Also restarted the layout process and started grouping all my components (whitebox is hopeful final size)
 
+## 7/18/2025 (5 Hours)
+
+Lots of working on layouts. I did a first try of the layout, but I didn't know how to use ground planes so it wasn't very effective. Second draft went way better! I have a completed version, and have sent out pictures/information to Hackclub, KiCAD discord and r/PCB on reddit. Already have found a bunch of small things to fix!
+
 <img width="768" height="532" alt="image" src="https://github.com/user-attachments/assets/a77d04ac-739d-49bd-b86d-8f6a82477dbe" />
 
 
