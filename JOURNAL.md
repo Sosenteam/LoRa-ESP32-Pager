@@ -111,5 +111,10 @@ Lots of working on layouts. I did a first try of the layout, but I didn't know h
 
 <img width="768" height="532" alt="image" src="https://github.com/user-attachments/assets/a77d04ac-739d-49bd-b86d-8f6a82477dbe" />
 
+# 7/19/2025 (5 Hours)
 
+Spent the first half of today adressing most of the problems from my first draft. This included fixing symbols, rearranging pins on the ESP32 and adding pullups.
+Afterwords I did a full do-over of my PCB layout, and made one more compact and simple. (also started looking into PCB pricing) 
 
+<img width="1633" height="904" alt="image" src="https://github.com/user-attachments/assets/f6b570d2-3b3c-4d5a-a03a-440b227c2f46" />
+<img width="1056" height="853" alt="image" src="https://github.com/user-attachments/assets/b2c92e4d-8ea1-45d6-92fd-3ae9ed7c7759" />
