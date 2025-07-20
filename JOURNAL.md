@@ -118,3 +118,10 @@ Afterwords I did a full do-over of my PCB layout, and made one more compact and 
 
 <img width="1633" height="904" alt="image" src="https://github.com/user-attachments/assets/f6b570d2-3b3c-4d5a-a03a-440b227c2f46" />
 <img width="1056" height="853" alt="image" src="https://github.com/user-attachments/assets/b2c92e4d-8ea1-45d6-92fd-3ae9ed7c7759" />
+
+# 7/20/2025 (4 Hours)
+
+Discovered Meshtastic, and decided to attempt to make my board compatible w/ it. Ended up changing Ra-01 to Ra-01sh (diffrent LoRa Module). Redid some of layout (ADDED SO MANY VIAS), started looking into custom firmware.
+Also uploaded to PCBway to see prices. (JLCPCB thinks its gonna be $300!!!).
+<img width="1121" height="849" alt="image" src="https://github.com/user-attachments/assets/b47ee119-a9d6-4604-9b86-8bf59fc32bae" />
+
