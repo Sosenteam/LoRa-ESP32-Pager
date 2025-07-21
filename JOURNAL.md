@@ -111,7 +111,7 @@ Lots of working on layouts. I did a first try of the layout, but I didn't know h
 
 <img width="768" height="532" alt="image" src="https://github.com/user-attachments/assets/a77d04ac-739d-49bd-b86d-8f6a82477dbe" />
 
-# 7/19/2025 (5 Hours)
+## 7/19/2025 (5 Hours)
 
 Spent the first half of today adressing most of the problems from my first draft. This included fixing symbols, rearranging pins on the ESP32 and adding pullups.
 Afterwords I did a full do-over of my PCB layout, and made one more compact and simple. (also started looking into PCB pricing) 
@@ -119,9 +119,13 @@ Afterwords I did a full do-over of my PCB layout, and made one more compact and 
 <img width="1633" height="904" alt="image" src="https://github.com/user-attachments/assets/f6b570d2-3b3c-4d5a-a03a-440b227c2f46" />
 <img width="1056" height="853" alt="image" src="https://github.com/user-attachments/assets/b2c92e4d-8ea1-45d6-92fd-3ae9ed7c7759" />
 
-# 7/20/2025 (4 Hours)
+## 7/20/2025 (4 Hours)
 
 Discovered Meshtastic, and decided to attempt to make my board compatible w/ it. Ended up changing Ra-01 to Ra-01sh (diffrent LoRa Module). Redid some of layout (ADDED SO MANY VIAS), started looking into custom firmware.
 Also uploaded to PCBway to see prices. (JLCPCB thinks its gonna be $300!!!).
 <img width="1121" height="849" alt="image" src="https://github.com/user-attachments/assets/b47ee119-a9d6-4604-9b86-8bf59fc32bae" />
+
+## 7/21/2025 (4 Hours)
+
+Looking at part sourcing, PCBway also wants $88 flat fee for assembly. Decided to assemble myself (scary). Some small pcb adjustments, mostly spent today  
 
