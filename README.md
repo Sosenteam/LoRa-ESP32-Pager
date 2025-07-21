@@ -1,10 +1,14 @@
 # LoRa-ESP32-Pager
 
-This is a ESP-32 and SX1262 based pager, It contains full battery charging and management as well as an input keypad and encoder. It uses a 0.96" Oled (SSD1306). 
-The firmware is going to be based on meshatastic, and hopefully will be able to use other meshtastic nodes to forward/mesh messages. 
+This is a ESP-32 and SX1262 based pager, It contains full battery charging and management as well as an input keypad and encoder. It uses a 0.96" Oled (SSD1306).
+There isn't any case because I wanted it to be a PCB only handheld (like the sprig), but I may laser cut a back when I get access to a laser cutter again (2 months).
+The firmware is based on meshatastic, and hopefully will be able to use other meshtastic nodes to forward/mesh messages. 
 
 I decided to build this because I felt like me and my friend group were too dependant on our phones, so I wanted to make a way to communicate that didn't involve phones. Also hopefully will be able to fully replace phones at school, which is aligned with my school possibly banning phones this upcoming year. The other main reason I wanted to start this project is because I wanted to learn more about radio and LoRa technology. This was also my first experience building my own PCBs, so I chose this over other projects because It would allow me to work with them.
 
+<img width="1203" height="798" alt="image" src="https://github.com/user-attachments/assets/48713f0c-3e93-41fe-8bb6-70c9c57ef321" />
+<img width="1101" height="850" alt="image" src="https://github.com/user-attachments/assets/91bf227f-9625-4c74-bed2-948023388047" />
+<img width="1180" height="818" alt="image" src="https://github.com/user-attachments/assets/2c91af8b-da0e-4af6-9ae1-d270b931783a" />
 
 
 
