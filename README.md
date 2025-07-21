@@ -3,7 +3,7 @@
 This is a ESP-32 and SX1262 based pager, It contains full battery charging and management as well as an input keypad and encoder. It uses a 0.96" Oled (SSD1306). 
 The firmware is going to be based on meshatastic, and hopefully will be able to use other meshtastic nodes to forward/mesh messages. 
 
-
+I decided to build this because I felt like me and my friend group were too dependant on our phones, so I wanted to make a way to communicate that didn't involve phones. Also hopefully will be able to fully replace phones at school, which is aligned with my school possibly banning phones this upcoming year. The other main reason I wanted to start this project is because I wanted to learn more about radio and LoRa technology. This was also my first experience building my own PCBs, so I chose this over other projects because It would allow me to work with them.
 
 
 
