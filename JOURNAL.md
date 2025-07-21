@@ -5,6 +5,7 @@ description: "A P2P bidirectional pager using ESP32 and LoRa."
 created_at: "2025-07-11"
 ---
 
+# Total Time:  56.5 Hours
 
 ## 6/27/2025 (5 Hours)
 
@@ -127,5 +128,12 @@ Also uploaded to PCBway to see prices. (JLCPCB thinks its gonna be $300!!!).
 
 ## 7/21/2025 (4 Hours)
 
-Looking at part sourcing, PCBway also wants $88 flat fee for assembly. Decided to assemble myself (scary). Some small pcb adjustments, mostly spent today  
+Looking at part sourcing, PCBway also wants $88 flat fee for assembly. Decided to assemble myself (scary). Some small pcb adjustments (for EMF), mostly spent today looking through AliExpress to find parts. Made a BOM and finished the rest of my Github repo so I can submit!!! 🎉
+
+Final Pic:
+
+<img width="1116" height="787" alt="image" src="https://github.com/user-attachments/assets/b41c8ec1-6550-473a-b99e-0b61a5bf009c" />
+
+
+### Thanks for reading all my random ramblings and progress updates!!
 
