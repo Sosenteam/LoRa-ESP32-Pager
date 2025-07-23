@@ -7,7 +7,7 @@ The firmware is based on meshatastic, and hopefully will be able to use other me
 I decided to build this because I felt like me and my friend group were too dependant on our phones, so I wanted to make a way to communicate that didn't involve phones. Also hopefully will be able to fully replace phones at school, which is aligned with my school possibly banning phones this upcoming year. The other main reason I wanted to start this project is because I wanted to learn more about radio and LoRa technology. This was also my first experience building my own PCBs, so I chose this over other projects because It would allow me to work with them.
 
 <img width="1203" height="798" alt="image" src="https://github.com/user-attachments/assets/48713f0c-3e93-41fe-8bb6-70c9c57ef321" />
-<img width="1101" height="850" alt="image" src="https://github.com/user-attachments/assets/91bf227f-9625-4c74-bed2-948023388047" />
+<img width="1106" height="850" alt="image" src="https://github.com/user-attachments/assets/3920eeb8-2d81-486e-979d-e66ed0a564ab" />
 <img width="1180" height="818" alt="image" src="https://github.com/user-attachments/assets/2c91af8b-da0e-4af6-9ae1-d270b931783a" />
 
 
